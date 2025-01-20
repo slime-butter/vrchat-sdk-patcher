@@ -1,5 +1,8 @@
 # VRChat SDK Patcher
 
+![GitHub Release](https://img.shields.io/github/v/release/vrcd-community/vrchat-sdk-patcher)
+![GitHub License](https://img.shields.io/github/license/vrcd-community/vrchat-sdk-patcher)
+
 > W.I.P
 
 提供一系列改进 VRChat SDK 使用体验（主要针对于网络）的补丁。
